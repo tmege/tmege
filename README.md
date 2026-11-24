@@ -2,37 +2,111 @@
   <img src="assets/ascii-eye.gif" alt="Animated ASCII art of a glowing manga eye surrounded by falling code, in vaporwave colors" width="720">
 </p>
 
-## Hi, I'm Timothée 🥷
+<p align="center">
+  <a href="https://github.com/tmege">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF71CE&center=true&vCenter=true&width=640&lines=%3E+whoami;Timoth%C3%A9e+%2F%2F+42+Barcelona;I+build+companies+of+AI+agents;systems+%C2%B7+agents+%C2%B7+LLMs" alt="Typing intro">
+  </a>
+</p>
 
-Computer Science graduate of **42 Barcelona**, with solid foundations in systems programming (C/C++, UNIX, memory management, networking) and a focus on **AI agents and LLM integration**.
+<p align="center">
+  <img src="https://img.shields.io/badge/based_in-Barcelona-ff71ce?style=flat-square&labelColor=0d0418">
+  <img src="https://img.shields.io/badge/school-42_Barcelona-b967ff?style=flat-square&labelColor=0d0418">
+  <img src="https://img.shields.io/badge/status-open_to_work-01cdfe?style=flat-square&labelColor=0d0418">
+</p>
 
-I design agentic systems and use them to build real products. My main one is a business management system built with a company of **27 AI agents** that plans and develops software end to end. It runs daily in two businesses and manages 500+ clients.
+<br>
 
-Currently looking for a **backend, product engineering or AI automation** role in Barcelona.
+### `▓▒░` &nbsp;whoami
 
-## What I build
+```yaml
+name:      Timothée Mège
+origin:    42 Barcelona — systems programming (C/C++, UNIX, memory, networking)
+focus:     AI agents & LLM integration
+flagship:  a company of 27 AI agents that plans & ships software end to end
+in_prod:   runs daily in 2 businesses, manages 500+ clients
+looking:   backend · product engineering · AI automation — Barcelona
+past_life: 6 years as a sound engineer in Barcelona & Paris
+speaks:    [français, english, español]
+```
 
-- **Business Management System** (TypeScript, private): finance, customers, inventory and projects in one place, built and maintained with a hierarchy of AI agents (CEO, managers, specialists).
-- **[LatestTechNews](https://github.com/tmege/LatestTechNews)**: daily cron pipeline that pulls 22 RSS feeds, filters spam and duplicates, ranks and summarizes articles with an LLM, and posts them to Discord.
-- **[artist-metrics](https://github.com/tmege/artist-metrics)**: one dashboard for an artist's performance across YouTube, Instagram, TikTok, Spotify, Deezer and Apple Music, with OAuth, 6-hourly sync and encrypted tokens.
-- **[XTTS-Voice-Generator](https://github.com/tmege/XTTS-Voice-Generator)**: local voice cloning with Hugging Face models.
+<br>
 
-## From 42
+### `▓▒░` &nbsp;what i build
 
-- **ft_transcendence (NULL//CITY)**: browser-based multiplayer cybersecurity game with a Python backend, SQLite, scrypt password hashing, Server-Sent Events and Docker Compose over HTTPS.
-- **ft_irc**: IRC server in C++98 using a single `poll()` loop with non-blocking sockets and no threads.
-- **Inception**: Docker Compose infrastructure with NGINX secured with TLS.
-- **minishell**, **push_swap**, **C++ modules** (RAII, templates, STL, Ford-Johnson sort).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>◈ Business Management System</h4>
+      <sub><code>private</code></sub>
+      <p>Finance, customers, inventory and projects in one place, built and maintained by a hierarchy of AI agents (CEO → managers → specialists).</p>
+      <img src="https://img.shields.io/badge/TypeScript-0d0418?style=flat-square&logo=typescript&logoColor=01cdfe">
+      <img src="https://img.shields.io/badge/AI_agents-0d0418?style=flat-square&logo=anthropic&logoColor=ff71ce">
+    </td>
+    <td width="50%" valign="top">
+      <h4>◈ <a href="https://github.com/tmege/LatestTechNews">LatestTechNews</a></h4>
+      <sub><code>cron pipeline</code></sub>
+      <p>Pulls 22 RSS feeds daily, filters spam and duplicates, ranks and summarizes articles with an LLM, then posts them to Discord.</p>
+      <img src="https://img.shields.io/badge/LLM-0d0418?style=flat-square&logo=anthropic&logoColor=ff71ce">
+      <img src="https://img.shields.io/badge/Discord-0d0418?style=flat-square&logo=discord&logoColor=b967ff">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>◈ <a href="https://github.com/tmege/artist-metrics">artist-metrics</a></h4>
+      <sub><code>dashboard</code></sub>
+      <p>One dashboard for an artist's numbers across YouTube, Instagram, TikTok, Spotify, Deezer and Apple Music. OAuth, 6-hourly sync, encrypted tokens.</p>
+      <img src="https://img.shields.io/badge/OAuth-0d0418?style=flat-square&logo=auth0&logoColor=01cdfe">
+      <img src="https://img.shields.io/badge/Spotify-0d0418?style=flat-square&logo=spotify&logoColor=ff71ce">
+    </td>
+    <td width="50%" valign="top">
+      <h4>◈ <a href="https://github.com/tmege/XTTS-Voice-Generator">XTTS-Voice-Generator</a></h4>
+      <sub><code>local AI</code></sub>
+      <p>Local voice cloning with Hugging Face models.</p>
+      <img src="https://img.shields.io/badge/Hugging_Face-0d0418?style=flat-square&logo=huggingface&logoColor=b967ff">
+      <img src="https://img.shields.io/badge/Python-0d0418?style=flat-square&logo=python&logoColor=01cdfe">
+    </td>
+  </tr>
+</table>
 
-## Stack
+<br>
 
-**Languages:** C, C++, TypeScript, Python, Bash  
-**AI:** Anthropic API, Claude, MCP, AI agent design, prompt engineering, Hugging Face, local LLMs, RAG (n8n)  
-**Backend:** API integrations, OAuth, authentication, SQLite, cron jobs, data pipelines  
-**Tools:** Linux, Docker, NGINX, Git
+### `▓▒░` &nbsp;from 42
 
-## Contact
+```diff
++ ft_transcendence (NULL//CITY)  multiplayer cybersecurity game · Python · SQLite · scrypt · SSE · Docker over HTTPS
++ ft_irc                         IRC server in C++98 · single poll() loop · non-blocking sockets · no threads
++ Inception                      Docker Compose infrastructure · NGINX secured with TLS
++ minishell · push_swap · C++    RAII · templates · STL · Ford-Johnson sort
+```
 
-[LinkedIn](https://linkedin.com/in/t-mege) · t.p.mege@gmail.com
+<br>
 
-Before code, I spent six years as a sound engineer in Barcelona and Paris. I speak French, English and Spanish.
+### `▓▒░` &nbsp;stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,py,bash,linux,docker,nginx,git,sqlite&perline=10&theme=dark" alt="C, C++, TypeScript, Python, Bash, Linux, Docker, NGINX, Git, SQLite">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_API-0d0418?style=for-the-badge&logo=anthropic&logoColor=ff71ce">
+  <img src="https://img.shields.io/badge/Claude-0d0418?style=for-the-badge&logo=claude&logoColor=ff71ce">
+  <img src="https://img.shields.io/badge/MCP-0d0418?style=for-the-badge&logo=modelcontextprotocol&logoColor=b967ff">
+  <img src="https://img.shields.io/badge/Hugging_Face-0d0418?style=for-the-badge&logo=huggingface&logoColor=b967ff">
+  <img src="https://img.shields.io/badge/n8n_·_RAG-0d0418?style=for-the-badge&logo=n8n&logoColor=01cdfe">
+  <img src="https://img.shields.io/badge/local_LLMs-0d0418?style=for-the-badge&logo=ollama&logoColor=01cdfe">
+</p>
+
+<p align="center">
+  <sub>agent design · prompt engineering · API integrations · OAuth · auth · cron jobs · data pipelines</sub>
+</p>
+
+<br>
+
+### `▓▒░` &nbsp;ping me
+
+<p align="center">
+  <a href="https://linkedin.com/in/t-mege"><img src="https://img.shields.io/badge/LinkedIn-0d0418?style=for-the-badge&logo=linkedin&logoColor=01cdfe"></a>
+  <a href="mailto:t.p.mege@gmail.com"><img src="https://img.shields.io/badge/t.p.mege@gmail.com-0d0418?style=for-the-badge&logo=gmail&logoColor=ff71ce"></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:ff71ce,50:b967ff,100:01cdfe" width="100%">
