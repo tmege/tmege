@@ -18,17 +18,6 @@
 
 ### `▓▒░` &nbsp;whoami
 
-```yaml
-name:      Timothée Mège
-origin:    42 Barcelona — systems programming (C/C++, UNIX, memory, networking)
-focus:     AI agents & LLM integration
-flagship:  a company of 27 AI agents that plans & ships software end to end
-in_prod:   runs daily in 2 businesses, manages 500+ clients
-looking:   backend · product engineering · AI automation — Barcelona
-past_life: 6 years as a sound engineer in Barcelona & Paris
-speaks:    [français, english, español]
-```
-
 <br>
 
 ### `▓▒░` &nbsp;what i build
