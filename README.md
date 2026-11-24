@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/tmege">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=1000&color=FF71CE&center=true&vCenter=true&repeat=false&width=640&lines=%3E+whoami;Timoth%C3%A9e+Pablo+M%C3%A8ge" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=1000&color=FF71CE&center=true&vCenter=true&repeat=false&width=640&lines=%3E+whoami;Timoth%C3%A9e+Pablo+Mege" alt="Typing intro">
   </a>
 </p>
 
