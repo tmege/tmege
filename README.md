@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coding-ninja.gif" alt="Manga-style animation of a ninja coding on a laptop" width="720">
+  <img src="assets/coding-forest.gif" alt="Hand-painted anime-style animation of a developer coding on a mossy rock in a forest" width="720">
 </p>
 
 <p align="center">
