@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/coding-ninja.gif" alt="Manga-style animation of a ninja coding on a laptop" width="720">
+  <img src="assets/ascii-eye.gif" alt="Animated ASCII art of a glowing manga eye surrounded by falling code, in vaporwave colors" width="720">
 </p>
 
 ## Hi, I'm Timothée 🥷
