@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/tmege">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF71CE&center=true&vCenter=true&width=640&lines=%3E+whoami;Timoth%C3%A9e+%2F%2F+42+Barcelona;I+build+companies+of+AI+agents;systems+%C2%B7+agents+%C2%B7+LLMs" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2200&pause=1000&color=FF71CE&center=true&vCenter=true&repeat=false&width=640&lines=%3E+whoami;Timoth%C3%A9e+Pablo+M%C3%A8ge" alt="Typing intro">
   </a>
 </p>
 
