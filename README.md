@@ -16,6 +16,27 @@
 
 <br>
 
+### `▓▒░` &nbsp;stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,py,bash,linux,docker,nginx,git,sqlite&perline=10&theme=dark" alt="C, C++, TypeScript, Python, Bash, Linux, Docker, NGINX, Git, SQLite">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anthropic_API-0d0418?style=for-the-badge&logo=anthropic&logoColor=ff71ce">
+  <img src="https://img.shields.io/badge/Claude-0d0418?style=for-the-badge&logo=claude&logoColor=ff71ce">
+  <img src="https://img.shields.io/badge/MCP-0d0418?style=for-the-badge&logo=modelcontextprotocol&logoColor=b967ff">
+  <img src="https://img.shields.io/badge/Hugging_Face-0d0418?style=for-the-badge&logo=huggingface&logoColor=b967ff">
+  <img src="https://img.shields.io/badge/n8n_·_RAG-0d0418?style=for-the-badge&logo=n8n&logoColor=01cdfe">
+  <img src="https://img.shields.io/badge/local_LLMs-0d0418?style=for-the-badge&logo=ollama&logoColor=01cdfe">
+</p>
+
+<p align="center">
+  <sub>agent design · prompt engineering · API integrations · OAuth · auth · cron jobs · data pipelines</sub>
+</p>
+
+<br>
+
 ### `▓▒░` &nbsp;what i build
 
 <table>
@@ -63,27 +84,6 @@
 + Inception                      Docker Compose infrastructure · NGINX secured with TLS
 + minishell · push_swap · C++    RAII · templates · STL · Ford-Johnson sort
 ```
-
-<br>
-
-### `▓▒░` &nbsp;stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,ts,py,bash,linux,docker,nginx,git,sqlite&perline=10&theme=dark" alt="C, C++, TypeScript, Python, Bash, Linux, Docker, NGINX, Git, SQLite">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Anthropic_API-0d0418?style=for-the-badge&logo=anthropic&logoColor=ff71ce">
-  <img src="https://img.shields.io/badge/Claude-0d0418?style=for-the-badge&logo=claude&logoColor=ff71ce">
-  <img src="https://img.shields.io/badge/MCP-0d0418?style=for-the-badge&logo=modelcontextprotocol&logoColor=b967ff">
-  <img src="https://img.shields.io/badge/Hugging_Face-0d0418?style=for-the-badge&logo=huggingface&logoColor=b967ff">
-  <img src="https://img.shields.io/badge/n8n_·_RAG-0d0418?style=for-the-badge&logo=n8n&logoColor=01cdfe">
-  <img src="https://img.shields.io/badge/local_LLMs-0d0418?style=for-the-badge&logo=ollama&logoColor=01cdfe">
-</p>
-
-<p align="center">
-  <sub>agent design · prompt engineering · API integrations · OAuth · auth · cron jobs · data pipelines</sub>
-</p>
 
 <br>
 
