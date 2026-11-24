@@ -2,10 +2,6 @@
   <img src="assets/coding-ninja.gif" alt="Manga-style animation of a ninja coding on a laptop" width="720">
 </p>
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/tmege?1337Badge=off&UM6P=off" alt="tmege's 42 stats"></a>
-</p>
-
 ## Hi, I'm Timothée 🥷
 
 Computer Science graduate of **42 Barcelona**, with solid foundations in systems programming (C/C++, UNIX, memory management, networking) and a focus on **AI agents and LLM integration**.
