@@ -16,10 +16,6 @@
 
 <br>
 
-### `▓▒░` &nbsp;whoami
-
-<br>
-
 ### `▓▒░` &nbsp;what i build
 
 <table>
