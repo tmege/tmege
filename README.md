@@ -24,7 +24,7 @@ Currently looking for a **backend, product engineering or AI automation** role i
 ## From 42
 
 - **ft_transcendence (NULL//CITY)**: browser-based multiplayer cybersecurity game with a Python backend, SQLite, scrypt password hashing, Server-Sent Events and Docker Compose over HTTPS.
-- **ft_irc**: IRC server in C++98 using a single `poll()` loop with non-blocking sockets and no threads.
+- **ft_irc**: IRC server in C++ using a single `poll()` loop with non-blocking sockets and no threads.
 - **Inception**: Docker Compose infrastructure with NGINX secured with TLS.
 - **minishell**, **push_swap**, **C++ modules** (RAII, templates, STL, Ford-Johnson sort).
 
